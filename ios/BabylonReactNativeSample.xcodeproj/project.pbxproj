@@ -1,0 +1,1009 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00E356F31AD99517003FC87E /* BabylonReactNativeSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* BabylonReactNativeSampleTests.m */; };
+		0757840C4B45419A8B287471 /* Image_22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 40FA339575AE4C76AC50944E /* Image_22.jpg */; };
+		08FBF17D72324B62969279C4 /* XfinityBrownTT-Light.svg in Resources */ = {isa = PBXBuildFile; fileRef = 96630530D5EE40328490017C /* XfinityBrownTT-Light.svg */; };
+		0EB638F5703549CCABEA1CB2 /* XfinityBrownTT-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DCBD7DD8BE044D4AA6D892ED /* XfinityBrownTT-BoldItalic.ttf */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1B1A6167502341AC9EF90405 /* XfinityBrown-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 47FAB0BDA0B74CA59B3A6346 /* XfinityBrown-Regular.otf */; };
+		1B8CC9D8CDB743D492603E32 /* Image_18.png in Resources */ = {isa = PBXBuildFile; fileRef = F3E4DA1842A648BF9F6B7D47 /* Image_18.png */; };
+		2265DDDDB33A47DA9AB1C031 /* Image_5.png in Resources */ = {isa = PBXBuildFile; fileRef = F816E7F5739841DAABD5C968 /* Image_5.png */; };
+		2352AF0BE3FC465AAA459C2D /* Image_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7650E2D96D464FC291A3682E /* Image_10.jpg */; };
+		252E6E26D18C4C908E246496 /* XfinityBrownTT-Light.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 1A44C8B1A4F440BBAB9C55FD /* XfinityBrownTT-Light.woff2 */; };
+		2610700BC8454C5089637D96 /* XfinityBrownTT-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC26C2F9CBEC4DEAA9EFEEF1 /* XfinityBrownTT-Light.ttf */; };
+		264D857C5CE244B8ADEFA224 /* XfinityBrownTT-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = AC9D569E25694D18A0E87953 /* XfinityBrownTT-Light.otf */; };
+		27FD4008176E40D0A8C9853A /* Image_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A906924D08E8476DBE77D094 /* Image_1.png */; };
+		2E54EE0B6F5B4BCDAA8C68F0 /* Image_19.png in Resources */ = {isa = PBXBuildFile; fileRef = 42CF042635904873BE605B49 /* Image_19.png */; };
+		34CA0B931D01491AA44410AA /* XfinityBrownTT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85FE16B86D1044A28E5D1449 /* XfinityBrownTT-Bold.ttf */; };
+		4C077300BBB44F0BB09523F6 /* Image_28.png in Resources */ = {isa = PBXBuildFile; fileRef = DEC8CEC3B0124F05B1ADDFE0 /* Image_28.png */; };
+		4D01263BC6674345928D3418 /* Image_23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07C882385EDC4BF4AFA45721 /* Image_23.jpg */; };
+		4DE99AC0104A4D09AD95A46C /* Image_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B653F3CC9E744BF9733A2D0 /* Image_3.jpg */; };
+		5179F55B3966488F85B17393 /* XfinityBrownTT-Light.eot in Resources */ = {isa = PBXBuildFile; fileRef = DF0BC5B0A09048CBA39B87A7 /* XfinityBrownTT-Light.eot */; };
+		56095515B03A443DA96269F3 /* Image_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 929A5013A66F4E12B1D96BF3 /* Image_11.jpg */; };
+		57FE86B0E9334C6EB738D319 /* blend_seperated2.gltf in Resources */ = {isa = PBXBuildFile; fileRef = BB77DE44DF444B548769C9CA /* blend_seperated2.gltf */; };
+		5C38801881D042F8A6C1A146 /* Image_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0096A6F1E4C740C0A080D124 /* Image_8.png */; };
+		5EBDEC9293DE45F1821C2B76 /* Image_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 74582F9CA777451D91954934 /* Image_6.png */; };
+		5FDA891D316A470584DA0EA5 /* Image_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1536EB393AC84C19811B5CD0 /* Image_14.jpg */; };
+		619BA516CC174AB9BC108BDA /* Image_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 945C77C166C74BF09858D950 /* Image_2.png */; };
+		6CDF3971F0354A6E8150B616 /* XfinityBrown-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E00A8111D4BBB82290181 /* XfinityBrown-BoldItalic.otf */; };
+		77AC80A9C142462E92585D84 /* XfinityBrownTT-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5EE8D20A156414DA3C26664 /* XfinityBrownTT-Italic.ttf */; };
+		79B3ADC7CF074F3490D5F8C5 /* Image_17.png in Resources */ = {isa = PBXBuildFile; fileRef = E496F9D7DA6A48EFB6909E69 /* Image_17.png */; };
+		7B0853E204584728BB6BA039 /* Image_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 452CC47D83584574B1D62708 /* Image_4.png */; };
+		7EC17B911B004097A4C07237 /* Image_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4B1BCF2A95E4F519F3937EA /* Image_12.jpg */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		872D5E92441842D3A6B1F4C8 /* XfinityBrown-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 095CD06599B94ACB8547CF63 /* XfinityBrown-Bold.otf */; };
+		8B31DDF999033E1D30401F65 /* libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 887EC68BF7F44D2406001898 /* libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a */; };
+		8B43502181E746D18FA62F6F /* Image_16.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DFA7DB45FAF46B8A2CE8F04 /* Image_16.png */; };
+		94CDFD5CCF994418979F126A /* Image_25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB59133AE4134915B36D4DBD /* Image_25.jpg */; };
+		96A2586C1C42731B5A81AB26 /* libPods-BabylonReactNativeSample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 957450B0C5D8BE5A242A253B /* libPods-BabylonReactNativeSample.a */; };
+		98A09F810F744AFE989FE2F7 /* XfinityBrown-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = AEBC8EA7A0C344D890DBC8C8 /* XfinityBrown-Italic.otf */; };
+		9C40D936D889488DB6FA4CCF /* Image_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7931936789014EBCBDDAD49D /* Image_3.png */; };
+		9D24B797B6FD455196A59282 /* embeded.glb in Resources */ = {isa = PBXBuildFile; fileRef = ACA3BE71E660499EB01591C6 /* embeded.glb */; };
+		9D79869181704421A420AE9B /* Image_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DE866F81B3F432982A1DD7F /* Image_20.jpg */; };
+		A40FAB9DBB804BD0B6063837 /* Image_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D207B9288BDB46958157DACF /* Image_15.jpg */; };
+		A4AF00BCF6DD40548C4FF568 /* Image_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1AF37B3EF04470997F372B /* Image_0.png */; };
+		A905C41D6D724D50B24C364B /* Image_7.png in Resources */ = {isa = PBXBuildFile; fileRef = BD9279411AD1404B96DAFA34 /* Image_7.png */; };
+		AC13505818C1420E843167FF /* embeded.gltf in Resources */ = {isa = PBXBuildFile; fileRef = 550E3F23A83849189AF57FF4 /* embeded.gltf */; };
+		ACFE983585D249B98F25E87B /* Image_29.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6B416832B63843D98081F2D2 /* Image_29.jpg */; };
+		AF6744443B534D018F37B390 /* Image_27.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC0D6884A22D4BB0B4B98672 /* Image_27.jpg */; };
+		B4F13B29D9324BF49096DA24 /* XfinityBrownTT-Regular.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = F63096165C114900863FD289 /* XfinityBrownTT-Regular.woff2 */; };
+		B59C6613E60A4614BBFD1DD1 /* Image_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 868B5AA68FE64159A6442ADB /* Image_9.png */; };
+		B8A6C73C70924C06B972D3D4 /* XfinityBrownTT-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 30076E0F466743D2B6C2A978 /* XfinityBrownTT-Regular.otf */; };
+		BC05AD92AEC042058D5364CB /* XfinityBrownTT-Regular.eot in Resources */ = {isa = PBXBuildFile; fileRef = DBDB0EBB3876459294705308 /* XfinityBrownTT-Regular.eot */; };
+		C42AA14700BB463DA6802538 /* Image_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DDED8C12E086427E946FEAB5 /* Image_5.jpg */; };
+		CEDF9065EBB746E0800C8E39 /* Image_24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FEE55D79319644EEB05D1459 /* Image_24.jpg */; };
+		D5937896C7974020862FE3FF /* XfinityBrownTT-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8AFC730640414DA3A709B5A1 /* XfinityBrownTT-LightItalic.ttf */; };
+		D5C4766B2A27ABF6004D22C8 /* www in Resources */ = {isa = PBXBuildFile; fileRef = D5C4766A2A27ABF6004D22C8 /* www */; };
+		D93F296F26AE4E90AF92D789 /* blend_seperated2.bin in Resources */ = {isa = PBXBuildFile; fileRef = B3D6408E80374B9E8BA0554D /* blend_seperated2.bin */; };
+		D998CBFCB424437B87358310 /* Image_26.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C14C59409CD45DBA6DCA228 /* Image_26.jpg */; };
+		DB6701165EB74FB4ABAB88BC /* Image_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC414AA82A484F40AFB5F6CC /* Image_4.jpg */; };
+		DBF8AA1BA4CD42DFB7F90A03 /* XfinityBrownTT-Light.woff in Resources */ = {isa = PBXBuildFile; fileRef = 8279AA6B594A45629AE982F3 /* XfinityBrownTT-Light.woff */; };
+		DDBDDFDC18334D5D9EBEA618 /* XfinityBrownTT-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B7E71518500B4A2691705C9B /* XfinityBrownTT-Regular.ttf */; };
+		E1330180F5FC4619837E83B9 /* XfinityBrownTT-Regular.svg in Resources */ = {isa = PBXBuildFile; fileRef = F677CE7D9EF14E04A3B919D7 /* XfinityBrownTT-Regular.svg */; };
+		E6056CB3C1C047979F00476F /* Image_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 787DF67F902941DDBB7268A9 /* Image_13.jpg */; };
+		E70434BB63B24B60B30A0DC4 /* XfinityBrownTT-Regular.woff in Resources */ = {isa = PBXBuildFile; fileRef = 62922B5288164D2FB6234558 /* XfinityBrownTT-Regular.woff */; };
+		E85E10B250FB483DB1EAF29E /* XfinityBrown-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A3FA6A88D4F49E5A57C3771 /* XfinityBrown-Light.otf */; };
+		EA63419305E44C068CC1E97D /* Image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFFB6F0963044AC9B9CAD786 /* Image_2.jpg */; };
+		F6DC5A58CC9947A6AB5B7972 /* XfinityBrown-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A437D86946D1B65BEF61 /* XfinityBrown-LightItalic.otf */; };
+		FF4E5F8ABC344729A8FCEB71 /* Image_21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACB118AFAEC549D0A983EFB5 /* Image_21.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
+			remoteInfo = BabylonReactNativeSample;
+		};
+		D59BDE3E2A1F9A5F004607B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D59BDE3A2A1F9A5F004607B0 /* RCT3DModel.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 134814201AA4EA6300B7C361;
+			remoteInfo = RCT3DModel;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0096A6F1E4C740C0A080D124 /* Image_8.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_8.png; path = ../assets/model/Image_8.png; sourceTree = "<group>"; };
+		00E356EE1AD99517003FC87E /* BabylonReactNativeSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BabylonReactNativeSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* BabylonReactNativeSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BabylonReactNativeSampleTests.m; sourceTree = "<group>"; };
+		04E07498697DD1BFAD2A4966 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.release.xcconfig"; path = "Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.release.xcconfig"; sourceTree = "<group>"; };
+		07C882385EDC4BF4AFA45721 /* Image_23.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_23.jpg; path = ../assets/model/Image_23.jpg; sourceTree = "<group>"; };
+		095CD06599B94ACB8547CF63 /* XfinityBrown-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-Bold.otf"; path = "../assets/fonts/XfinityBrown-Bold.otf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* BabylonReactNativeSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BabylonReactNativeSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = BabylonReactNativeSample/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = BabylonReactNativeSample/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = BabylonReactNativeSample/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = BabylonReactNativeSample/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = BabylonReactNativeSample/main.m; sourceTree = "<group>"; };
+		1536EB393AC84C19811B5CD0 /* Image_14.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_14.jpg; path = ../assets/model/Image_14.jpg; sourceTree = "<group>"; };
+		1A44C8B1A4F440BBAB9C55FD /* XfinityBrownTT-Light.woff2 */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.woff2"; path = "../assets/fonts/XfinityBrownTT-Light.woff2"; sourceTree = "<group>"; };
+		2DFA7DB45FAF46B8A2CE8F04 /* Image_16.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_16.png; path = ../assets/model/Image_16.png; sourceTree = "<group>"; };
+		30076E0F466743D2B6C2A978 /* XfinityBrownTT-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.otf"; path = "../assets/fonts/XfinityBrownTT-Regular.otf"; sourceTree = "<group>"; };
+		3D0E00A8111D4BBB82290181 /* XfinityBrown-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-BoldItalic.otf"; path = "../assets/fonts/XfinityBrown-BoldItalic.otf"; sourceTree = "<group>"; };
+		40FA339575AE4C76AC50944E /* Image_22.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_22.jpg; path = ../assets/model/Image_22.jpg; sourceTree = "<group>"; };
+		42CF042635904873BE605B49 /* Image_19.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_19.png; path = ../assets/model/Image_19.png; sourceTree = "<group>"; };
+		452CC47D83584574B1D62708 /* Image_4.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_4.png; path = ../assets/model/Image_4.png; sourceTree = "<group>"; };
+		47FAB0BDA0B74CA59B3A6346 /* XfinityBrown-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-Regular.otf"; path = "../assets/fonts/XfinityBrown-Regular.otf"; sourceTree = "<group>"; };
+		4B1AF37B3EF04470997F372B /* Image_0.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_0.png; path = ../assets/model/Image_0.png; sourceTree = "<group>"; };
+		4C14C59409CD45DBA6DCA228 /* Image_26.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_26.jpg; path = ../assets/model/Image_26.jpg; sourceTree = "<group>"; };
+		550E3F23A83849189AF57FF4 /* embeded.gltf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = embeded.gltf; path = ../assets/model/embeded.gltf; sourceTree = "<group>"; };
+		5A3FA6A88D4F49E5A57C3771 /* XfinityBrown-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-Light.otf"; path = "../assets/fonts/XfinityBrown-Light.otf"; sourceTree = "<group>"; };
+		5DE866F81B3F432982A1DD7F /* Image_20.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_20.jpg; path = ../assets/model/Image_20.jpg; sourceTree = "<group>"; };
+		62922B5288164D2FB6234558 /* XfinityBrownTT-Regular.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.woff"; path = "../assets/fonts/XfinityBrownTT-Regular.woff"; sourceTree = "<group>"; };
+		6A6796E2F735F39F84239AC6 /* Pods-BabylonReactNativeSample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BabylonReactNativeSample.release.xcconfig"; path = "Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample.release.xcconfig"; sourceTree = "<group>"; };
+		6B416832B63843D98081F2D2 /* Image_29.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_29.jpg; path = ../assets/model/Image_29.jpg; sourceTree = "<group>"; };
+		74582F9CA777451D91954934 /* Image_6.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_6.png; path = ../assets/model/Image_6.png; sourceTree = "<group>"; };
+		7650E2D96D464FC291A3682E /* Image_10.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_10.jpg; path = ../assets/model/Image_10.jpg; sourceTree = "<group>"; };
+		787DF67F902941DDBB7268A9 /* Image_13.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_13.jpg; path = ../assets/model/Image_13.jpg; sourceTree = "<group>"; };
+		7931936789014EBCBDDAD49D /* Image_3.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_3.png; path = ../assets/model/Image_3.png; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = BabylonReactNativeSample/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8279AA6B594A45629AE982F3 /* XfinityBrownTT-Light.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.woff"; path = "../assets/fonts/XfinityBrownTT-Light.woff"; sourceTree = "<group>"; };
+		85FE16B86D1044A28E5D1449 /* XfinityBrownTT-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Bold.ttf"; path = "../assets/fonts/XfinityBrownTT-Bold.ttf"; sourceTree = "<group>"; };
+		868B5AA68FE64159A6442ADB /* Image_9.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_9.png; path = ../assets/model/Image_9.png; sourceTree = "<group>"; };
+		887EC68BF7F44D2406001898 /* libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8AFC730640414DA3A709B5A1 /* XfinityBrownTT-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-LightItalic.ttf"; path = "../assets/fonts/XfinityBrownTT-LightItalic.ttf"; sourceTree = "<group>"; };
+		8B653F3CC9E744BF9733A2D0 /* Image_3.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_3.jpg; path = ../assets/model/Image_3.jpg; sourceTree = "<group>"; };
+		929A5013A66F4E12B1D96BF3 /* Image_11.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_11.jpg; path = ../assets/model/Image_11.jpg; sourceTree = "<group>"; };
+		945C77C166C74BF09858D950 /* Image_2.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_2.png; path = ../assets/model/Image_2.png; sourceTree = "<group>"; };
+		957450B0C5D8BE5A242A253B /* libPods-BabylonReactNativeSample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BabylonReactNativeSample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		96630530D5EE40328490017C /* XfinityBrownTT-Light.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.svg"; path = "../assets/fonts/XfinityBrownTT-Light.svg"; sourceTree = "<group>"; };
+		9A48A437D86946D1B65BEF61 /* XfinityBrown-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-LightItalic.otf"; path = "../assets/fonts/XfinityBrown-LightItalic.otf"; sourceTree = "<group>"; };
+		A906924D08E8476DBE77D094 /* Image_1.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_1.png; path = ../assets/model/Image_1.png; sourceTree = "<group>"; };
+		AC9D569E25694D18A0E87953 /* XfinityBrownTT-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.otf"; path = "../assets/fonts/XfinityBrownTT-Light.otf"; sourceTree = "<group>"; };
+		ACA3BE71E660499EB01591C6 /* embeded.glb */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = embeded.glb; path = ../assets/model/embeded.glb; sourceTree = "<group>"; };
+		ACB118AFAEC549D0A983EFB5 /* Image_21.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_21.jpg; path = ../assets/model/Image_21.jpg; sourceTree = "<group>"; };
+		AEBC8EA7A0C344D890DBC8C8 /* XfinityBrown-Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrown-Italic.otf"; path = "../assets/fonts/XfinityBrown-Italic.otf"; sourceTree = "<group>"; };
+		B3D6408E80374B9E8BA0554D /* blend_seperated2.bin */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = blend_seperated2.bin; path = ../assets/model/blend_seperated2.bin; sourceTree = "<group>"; };
+		B4B1BCF2A95E4F519F3937EA /* Image_12.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_12.jpg; path = ../assets/model/Image_12.jpg; sourceTree = "<group>"; };
+		B7E71518500B4A2691705C9B /* XfinityBrownTT-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.ttf"; path = "../assets/fonts/XfinityBrownTT-Regular.ttf"; sourceTree = "<group>"; };
+		BB77DE44DF444B548769C9CA /* blend_seperated2.gltf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = blend_seperated2.gltf; path = ../assets/model/blend_seperated2.gltf; sourceTree = "<group>"; };
+		BD9279411AD1404B96DAFA34 /* Image_7.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_7.png; path = ../assets/model/Image_7.png; sourceTree = "<group>"; };
+		D207B9288BDB46958157DACF /* Image_15.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_15.jpg; path = ../assets/model/Image_15.jpg; sourceTree = "<group>"; };
+		D515159151A0797EE52B1545 /* Pods-BabylonReactNativeSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BabylonReactNativeSample.debug.xcconfig"; path = "Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample.debug.xcconfig"; sourceTree = "<group>"; };
+		D59BDE3A2A1F9A5F004607B0 /* RCT3DModel.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCT3DModel.xcodeproj; path = "../node_modules/react-native-3d-model-view/ios/RCT3DModel.xcodeproj"; sourceTree = "<group>"; };
+		D5C4766A2A27ABF6004D22C8 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../www; sourceTree = "<group>"; };
+		DBDB0EBB3876459294705308 /* XfinityBrownTT-Regular.eot */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.eot"; path = "../assets/fonts/XfinityBrownTT-Regular.eot"; sourceTree = "<group>"; };
+		DC0D6884A22D4BB0B4B98672 /* Image_27.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_27.jpg; path = ../assets/model/Image_27.jpg; sourceTree = "<group>"; };
+		DC26C2F9CBEC4DEAA9EFEEF1 /* XfinityBrownTT-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.ttf"; path = "../assets/fonts/XfinityBrownTT-Light.ttf"; sourceTree = "<group>"; };
+		DC414AA82A484F40AFB5F6CC /* Image_4.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_4.jpg; path = ../assets/model/Image_4.jpg; sourceTree = "<group>"; };
+		DC6C624656FEF14128692A05 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.debug.xcconfig"; path = "Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DCBD7DD8BE044D4AA6D892ED /* XfinityBrownTT-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-BoldItalic.ttf"; path = "../assets/fonts/XfinityBrownTT-BoldItalic.ttf"; sourceTree = "<group>"; };
+		DDED8C12E086427E946FEAB5 /* Image_5.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_5.jpg; path = ../assets/model/Image_5.jpg; sourceTree = "<group>"; };
+		DEC8CEC3B0124F05B1ADDFE0 /* Image_28.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_28.png; path = ../assets/model/Image_28.png; sourceTree = "<group>"; };
+		DF0BC5B0A09048CBA39B87A7 /* XfinityBrownTT-Light.eot */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Light.eot"; path = "../assets/fonts/XfinityBrownTT-Light.eot"; sourceTree = "<group>"; };
+		E496F9D7DA6A48EFB6909E69 /* Image_17.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_17.png; path = ../assets/model/Image_17.png; sourceTree = "<group>"; };
+		EB59133AE4134915B36D4DBD /* Image_25.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_25.jpg; path = ../assets/model/Image_25.jpg; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EFFB6F0963044AC9B9CAD786 /* Image_2.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_2.jpg; path = ../assets/model/Image_2.jpg; sourceTree = "<group>"; };
+		F3E4DA1842A648BF9F6B7D47 /* Image_18.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_18.png; path = ../assets/model/Image_18.png; sourceTree = "<group>"; };
+		F5EE8D20A156414DA3C26664 /* XfinityBrownTT-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Italic.ttf"; path = "../assets/fonts/XfinityBrownTT-Italic.ttf"; sourceTree = "<group>"; };
+		F63096165C114900863FD289 /* XfinityBrownTT-Regular.woff2 */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.woff2"; path = "../assets/fonts/XfinityBrownTT-Regular.woff2"; sourceTree = "<group>"; };
+		F677CE7D9EF14E04A3B919D7 /* XfinityBrownTT-Regular.svg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "XfinityBrownTT-Regular.svg"; path = "../assets/fonts/XfinityBrownTT-Regular.svg"; sourceTree = "<group>"; };
+		F816E7F5739841DAABD5C968 /* Image_5.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_5.png; path = ../assets/model/Image_5.png; sourceTree = "<group>"; };
+		FEE55D79319644EEB05D1459 /* Image_24.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Image_24.jpg; path = ../assets/model/Image_24.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00E356EB1AD99517003FC87E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B31DDF999033E1D30401F65 /* libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96A2586C1C42731B5A81AB26 /* libPods-BabylonReactNativeSample.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00E356EF1AD99517003FC87E /* BabylonReactNativeSampleTests */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F21AD99517003FC87E /* BabylonReactNativeSampleTests.m */,
+				00E356F01AD99517003FC87E /* Supporting Files */,
+			);
+			path = BabylonReactNativeSampleTests;
+			sourceTree = "<group>";
+		};
+		00E356F01AD99517003FC87E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F11AD99517003FC87E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* BabylonReactNativeSample */ = {
+			isa = PBXGroup;
+			children = (
+				D5C4766A2A27ABF6004D22C8 /* www */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
+				13B07FB71A68108700A75B9A /* main.m */,
+			);
+			name = BabylonReactNativeSample;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				957450B0C5D8BE5A242A253B /* libPods-BabylonReactNativeSample.a */,
+				887EC68BF7F44D2406001898 /* libPods-BabylonReactNativeSample-BabylonReactNativeSampleTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		36AB9616780549B59513E1FC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				095CD06599B94ACB8547CF63 /* XfinityBrown-Bold.otf */,
+				3D0E00A8111D4BBB82290181 /* XfinityBrown-BoldItalic.otf */,
+				AEBC8EA7A0C344D890DBC8C8 /* XfinityBrown-Italic.otf */,
+				5A3FA6A88D4F49E5A57C3771 /* XfinityBrown-Light.otf */,
+				9A48A437D86946D1B65BEF61 /* XfinityBrown-LightItalic.otf */,
+				47FAB0BDA0B74CA59B3A6346 /* XfinityBrown-Regular.otf */,
+				AC9D569E25694D18A0E87953 /* XfinityBrownTT-Light.otf */,
+				30076E0F466743D2B6C2A978 /* XfinityBrownTT-Regular.otf */,
+				85FE16B86D1044A28E5D1449 /* XfinityBrownTT-Bold.ttf */,
+				DCBD7DD8BE044D4AA6D892ED /* XfinityBrownTT-BoldItalic.ttf */,
+				F5EE8D20A156414DA3C26664 /* XfinityBrownTT-Italic.ttf */,
+				DC26C2F9CBEC4DEAA9EFEEF1 /* XfinityBrownTT-Light.ttf */,
+				8AFC730640414DA3A709B5A1 /* XfinityBrownTT-LightItalic.ttf */,
+				B7E71518500B4A2691705C9B /* XfinityBrownTT-Regular.ttf */,
+				DF0BC5B0A09048CBA39B87A7 /* XfinityBrownTT-Light.eot */,
+				96630530D5EE40328490017C /* XfinityBrownTT-Light.svg */,
+				8279AA6B594A45629AE982F3 /* XfinityBrownTT-Light.woff */,
+				1A44C8B1A4F440BBAB9C55FD /* XfinityBrownTT-Light.woff2 */,
+				DBDB0EBB3876459294705308 /* XfinityBrownTT-Regular.eot */,
+				F677CE7D9EF14E04A3B919D7 /* XfinityBrownTT-Regular.svg */,
+				62922B5288164D2FB6234558 /* XfinityBrownTT-Regular.woff */,
+				F63096165C114900863FD289 /* XfinityBrownTT-Regular.woff2 */,
+				4B1AF37B3EF04470997F372B /* Image_0.png */,
+				A906924D08E8476DBE77D094 /* Image_1.png */,
+				7650E2D96D464FC291A3682E /* Image_10.jpg */,
+				929A5013A66F4E12B1D96BF3 /* Image_11.jpg */,
+				B4B1BCF2A95E4F519F3937EA /* Image_12.jpg */,
+				787DF67F902941DDBB7268A9 /* Image_13.jpg */,
+				1536EB393AC84C19811B5CD0 /* Image_14.jpg */,
+				D207B9288BDB46958157DACF /* Image_15.jpg */,
+				2DFA7DB45FAF46B8A2CE8F04 /* Image_16.png */,
+				E496F9D7DA6A48EFB6909E69 /* Image_17.png */,
+				F3E4DA1842A648BF9F6B7D47 /* Image_18.png */,
+				42CF042635904873BE605B49 /* Image_19.png */,
+				EFFB6F0963044AC9B9CAD786 /* Image_2.jpg */,
+				945C77C166C74BF09858D950 /* Image_2.png */,
+				5DE866F81B3F432982A1DD7F /* Image_20.jpg */,
+				ACB118AFAEC549D0A983EFB5 /* Image_21.jpg */,
+				40FA339575AE4C76AC50944E /* Image_22.jpg */,
+				07C882385EDC4BF4AFA45721 /* Image_23.jpg */,
+				FEE55D79319644EEB05D1459 /* Image_24.jpg */,
+				EB59133AE4134915B36D4DBD /* Image_25.jpg */,
+				4C14C59409CD45DBA6DCA228 /* Image_26.jpg */,
+				DC0D6884A22D4BB0B4B98672 /* Image_27.jpg */,
+				DEC8CEC3B0124F05B1ADDFE0 /* Image_28.png */,
+				6B416832B63843D98081F2D2 /* Image_29.jpg */,
+				8B653F3CC9E744BF9733A2D0 /* Image_3.jpg */,
+				7931936789014EBCBDDAD49D /* Image_3.png */,
+				DC414AA82A484F40AFB5F6CC /* Image_4.jpg */,
+				452CC47D83584574B1D62708 /* Image_4.png */,
+				DDED8C12E086427E946FEAB5 /* Image_5.jpg */,
+				F816E7F5739841DAABD5C968 /* Image_5.png */,
+				74582F9CA777451D91954934 /* Image_6.png */,
+				BD9279411AD1404B96DAFA34 /* Image_7.png */,
+				0096A6F1E4C740C0A080D124 /* Image_8.png */,
+				868B5AA68FE64159A6442ADB /* Image_9.png */,
+				B3D6408E80374B9E8BA0554D /* blend_seperated2.bin */,
+				BB77DE44DF444B548769C9CA /* blend_seperated2.gltf */,
+				ACA3BE71E660499EB01591C6 /* embeded.glb */,
+				550E3F23A83849189AF57FF4 /* embeded.gltf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				D59BDE3A2A1F9A5F004607B0 /* RCT3DModel.xcodeproj */,
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* BabylonReactNativeSample */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				00E356EF1AD99517003FC87E /* BabylonReactNativeSampleTests */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				36AB9616780549B59513E1FC /* Resources */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* BabylonReactNativeSample.app */,
+				00E356EE1AD99517003FC87E /* BabylonReactNativeSampleTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D515159151A0797EE52B1545 /* Pods-BabylonReactNativeSample.debug.xcconfig */,
+				6A6796E2F735F39F84239AC6 /* Pods-BabylonReactNativeSample.release.xcconfig */,
+				DC6C624656FEF14128692A05 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.debug.xcconfig */,
+				04E07498697DD1BFAD2A4966 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		D59BDE3B2A1F9A5F004607B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D59BDE3F2A1F9A5F004607B0 /* libRCT3DModel.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00E356ED1AD99517003FC87E /* BabylonReactNativeSampleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "BabylonReactNativeSampleTests" */;
+			buildPhases = (
+				AAD3A3CDC14CDAFEFDBC1AB0 /* [CP] Check Pods Manifest.lock */,
+				00E356EA1AD99517003FC87E /* Sources */,
+				00E356EB1AD99517003FC87E /* Frameworks */,
+				00E356EC1AD99517003FC87E /* Resources */,
+				CBFD252959AAB8294EE3B668 /* [CP] Embed Pods Frameworks */,
+				C0169AC6DEB04349629A6314 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00E356F51AD99517003FC87E /* PBXTargetDependency */,
+			);
+			name = BabylonReactNativeSampleTests;
+			productName = BabylonReactNativeSampleTests;
+			productReference = 00E356EE1AD99517003FC87E /* BabylonReactNativeSampleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		13B07F861A680F5B00A75B9A /* BabylonReactNativeSample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "BabylonReactNativeSample" */;
+			buildPhases = (
+				E7336F6F55EE5D04038D8676 /* [CP] Check Pods Manifest.lock */,
+				FD10A7F022414F080027D42C /* Start Packager */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				A1DDE430AFBFDA43D763633C /* [CP] Embed Pods Frameworks */,
+				B6BC5F3C445B4227075F8FAC /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BabylonReactNativeSample;
+			productName = BabylonReactNativeSample;
+			productReference = 13B07F961A680F5B00A75B9A /* BabylonReactNativeSample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					00E356ED1AD99517003FC87E = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						LastSwiftMigration = 1120;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "BabylonReactNativeSample" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = D59BDE3B2A1F9A5F004607B0 /* Products */;
+					ProjectRef = D59BDE3A2A1F9A5F004607B0 /* RCT3DModel.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* BabylonReactNativeSample */,
+				00E356ED1AD99517003FC87E /* BabylonReactNativeSampleTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		D59BDE3F2A1F9A5F004607B0 /* libRCT3DModel.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRCT3DModel.a;
+			remoteRef = D59BDE3E2A1F9A5F004607B0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00E356EC1AD99517003FC87E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				872D5E92441842D3A6B1F4C8 /* XfinityBrown-Bold.otf in Resources */,
+				6CDF3971F0354A6E8150B616 /* XfinityBrown-BoldItalic.otf in Resources */,
+				98A09F810F744AFE989FE2F7 /* XfinityBrown-Italic.otf in Resources */,
+				E85E10B250FB483DB1EAF29E /* XfinityBrown-Light.otf in Resources */,
+				F6DC5A58CC9947A6AB5B7972 /* XfinityBrown-LightItalic.otf in Resources */,
+				1B1A6167502341AC9EF90405 /* XfinityBrown-Regular.otf in Resources */,
+				264D857C5CE244B8ADEFA224 /* XfinityBrownTT-Light.otf in Resources */,
+				B8A6C73C70924C06B972D3D4 /* XfinityBrownTT-Regular.otf in Resources */,
+				34CA0B931D01491AA44410AA /* XfinityBrownTT-Bold.ttf in Resources */,
+				0EB638F5703549CCABEA1CB2 /* XfinityBrownTT-BoldItalic.ttf in Resources */,
+				77AC80A9C142462E92585D84 /* XfinityBrownTT-Italic.ttf in Resources */,
+				2610700BC8454C5089637D96 /* XfinityBrownTT-Light.ttf in Resources */,
+				D5937896C7974020862FE3FF /* XfinityBrownTT-LightItalic.ttf in Resources */,
+				DDBDDFDC18334D5D9EBEA618 /* XfinityBrownTT-Regular.ttf in Resources */,
+				5179F55B3966488F85B17393 /* XfinityBrownTT-Light.eot in Resources */,
+				08FBF17D72324B62969279C4 /* XfinityBrownTT-Light.svg in Resources */,
+				DBF8AA1BA4CD42DFB7F90A03 /* XfinityBrownTT-Light.woff in Resources */,
+				252E6E26D18C4C908E246496 /* XfinityBrownTT-Light.woff2 in Resources */,
+				BC05AD92AEC042058D5364CB /* XfinityBrownTT-Regular.eot in Resources */,
+				E1330180F5FC4619837E83B9 /* XfinityBrownTT-Regular.svg in Resources */,
+				E70434BB63B24B60B30A0DC4 /* XfinityBrownTT-Regular.woff in Resources */,
+				B4F13B29D9324BF49096DA24 /* XfinityBrownTT-Regular.woff2 in Resources */,
+				A4AF00BCF6DD40548C4FF568 /* Image_0.png in Resources */,
+				27FD4008176E40D0A8C9853A /* Image_1.png in Resources */,
+				2352AF0BE3FC465AAA459C2D /* Image_10.jpg in Resources */,
+				56095515B03A443DA96269F3 /* Image_11.jpg in Resources */,
+				7EC17B911B004097A4C07237 /* Image_12.jpg in Resources */,
+				E6056CB3C1C047979F00476F /* Image_13.jpg in Resources */,
+				5FDA891D316A470584DA0EA5 /* Image_14.jpg in Resources */,
+				A40FAB9DBB804BD0B6063837 /* Image_15.jpg in Resources */,
+				8B43502181E746D18FA62F6F /* Image_16.png in Resources */,
+				79B3ADC7CF074F3490D5F8C5 /* Image_17.png in Resources */,
+				1B8CC9D8CDB743D492603E32 /* Image_18.png in Resources */,
+				2E54EE0B6F5B4BCDAA8C68F0 /* Image_19.png in Resources */,
+				D5C4766B2A27ABF6004D22C8 /* www in Resources */,
+				EA63419305E44C068CC1E97D /* Image_2.jpg in Resources */,
+				619BA516CC174AB9BC108BDA /* Image_2.png in Resources */,
+				9D79869181704421A420AE9B /* Image_20.jpg in Resources */,
+				FF4E5F8ABC344729A8FCEB71 /* Image_21.jpg in Resources */,
+				0757840C4B45419A8B287471 /* Image_22.jpg in Resources */,
+				4D01263BC6674345928D3418 /* Image_23.jpg in Resources */,
+				CEDF9065EBB746E0800C8E39 /* Image_24.jpg in Resources */,
+				94CDFD5CCF994418979F126A /* Image_25.jpg in Resources */,
+				D998CBFCB424437B87358310 /* Image_26.jpg in Resources */,
+				AF6744443B534D018F37B390 /* Image_27.jpg in Resources */,
+				4C077300BBB44F0BB09523F6 /* Image_28.png in Resources */,
+				ACFE983585D249B98F25E87B /* Image_29.jpg in Resources */,
+				4DE99AC0104A4D09AD95A46C /* Image_3.jpg in Resources */,
+				9C40D936D889488DB6FA4CCF /* Image_3.png in Resources */,
+				DB6701165EB74FB4ABAB88BC /* Image_4.jpg in Resources */,
+				7B0853E204584728BB6BA039 /* Image_4.png in Resources */,
+				C42AA14700BB463DA6802538 /* Image_5.jpg in Resources */,
+				2265DDDDB33A47DA9AB1C031 /* Image_5.png in Resources */,
+				5EBDEC9293DE45F1821C2B76 /* Image_6.png in Resources */,
+				A905C41D6D724D50B24C364B /* Image_7.png in Resources */,
+				5C38801881D042F8A6C1A146 /* Image_8.png in Resources */,
+				B59C6613E60A4614BBFD1DD1 /* Image_9.png in Resources */,
+				D93F296F26AE4E90AF92D789 /* blend_seperated2.bin in Resources */,
+				57FE86B0E9334C6EB738D319 /* blend_seperated2.gltf in Resources */,
+				9D24B797B6FD455196A59282 /* embeded.glb in Resources */,
+				AC13505818C1420E843167FF /* embeded.gltf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/.xcode.env.local",
+				"$(SRCROOT)/.xcode.env",
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
+		};
+		A1DDE430AFBFDA43D763633C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AAD3A3CDC14CDAFEFDBC1AB0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B6BC5F3C445B4227075F8FAC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample/Pods-BabylonReactNativeSample-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C0169AC6DEB04349629A6314 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CBFD252959AAB8294EE3B668 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests/Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E7336F6F55EE5D04038D8676 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BabylonReactNativeSample-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD10A7F022414F080027D42C /* Start Packager */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Start Packager";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00E356EA1AD99517003FC87E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00E356F31AD99517003FC87E /* BabylonReactNativeSampleTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 13B07F861A680F5B00A75B9A /* BabylonReactNativeSample */;
+			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00E356F61AD99517003FC87E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC6C624656FEF14128692A05 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = J2KH92S7LF;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = BabylonReactNativeSampleTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = 2;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BabylonReactNativeSample.app/BabylonReactNativeSample";
+			};
+			name = Debug;
+		};
+		00E356F71AD99517003FC87E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04E07498697DD1BFAD2A4966 /* Pods-BabylonReactNativeSample-BabylonReactNativeSampleTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = J2KH92S7LF;
+				INFOPLIST_FILE = BabylonReactNativeSampleTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = 2;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BabylonReactNativeSample.app/BabylonReactNativeSample";
+			};
+			name = Release;
+		};
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D515159151A0797EE52B1545 /* Pods-BabylonReactNativeSample.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J2KH92S7LF;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = BabylonReactNativeSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.babylonjs.BabylonReactNativeSample;
+				PRODUCT_NAME = BabylonReactNativeSample;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 2;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A6796E2F735F39F84239AC6 /* Pods-BabylonReactNativeSample.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J2KH92S7LF;
+				INFOPLIST_FILE = BabylonReactNativeSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.babylonjs.BabylonReactNativeSample;
+				PRODUCT_NAME = BabylonReactNativeSample;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 2;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					/usr/lib/swift,
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-DFOLLY_NO_CONFIG",
+					"-DFOLLY_MOBILE=1",
+					"-DFOLLY_USE_LIBCPP=1",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "BabylonReactNativeSampleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00E356F61AD99517003FC87E /* Debug */,
+				00E356F71AD99517003FC87E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "BabylonReactNativeSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "BabylonReactNativeSample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

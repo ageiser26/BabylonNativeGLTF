@@ -1,0 +1,237 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/XfinityBrown-Bold.otf",
+      "sha1": "88789aad7c9178571c9dda36dd4ccb27dd23e774"
+    },
+    {
+      "path": "assets/fonts/XfinityBrown-BoldItalic.otf",
+      "sha1": "e17db3038953dfbad637016af8ca8a18d6326ea9"
+    },
+    {
+      "path": "assets/fonts/XfinityBrown-Italic.otf",
+      "sha1": "833ef696ca6a31553f3d2277696fd7ed37a26046"
+    },
+    {
+      "path": "assets/fonts/XfinityBrown-Light.otf",
+      "sha1": "e6c887aef12aa25d09358a65dc40ef31c956a609"
+    },
+    {
+      "path": "assets/fonts/XfinityBrown-LightItalic.otf",
+      "sha1": "4511df14442e4f1f631c4c23de14b634efdea499"
+    },
+    {
+      "path": "assets/fonts/XfinityBrown-Regular.otf",
+      "sha1": "0982ed15e84661dfe4af1ef52b91dfa6b328f9df"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Bold.ttf",
+      "sha1": "98464ff03c96cd2f2b3e2cc71b0a8d4ecd615bab"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-BoldItalic.ttf",
+      "sha1": "2a933af8bd2d33b5819e8dc5cd0945b73fc42bf4"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Italic.ttf",
+      "sha1": "d9170c38adbe122547fc575f47bc338bcd305c5a"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.eot",
+      "sha1": "d5568667af2660a28af648a116d3750dbdc0dbc4"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.otf",
+      "sha1": "1503208e28f6e90557e1961357315c91338c6bfc"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.svg",
+      "sha1": "d6b1c0ef44d5d9fce9ebda848fb3c3c33e573d98"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.ttf",
+      "sha1": "c05a26202ce9e8b7d842ae0fc02b297330aa0086"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.woff",
+      "sha1": "1411e588be6202d688a71f2b2be0fd3d22e966fc"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Light.woff2",
+      "sha1": "91945f965555e1508b81e4010c94bba85dafc251"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-LightItalic.ttf",
+      "sha1": "2dc741db72d17553b6df74721ed16a4f9aeb2631"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.eot",
+      "sha1": "fa11ca74de87ee39b848971eeb78021e403fa6dc"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.otf",
+      "sha1": "438db067aa1b381adf42f23f88699a6bdbbfa7bb"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.svg",
+      "sha1": "0707571264f16a09690dc59013921fd52ea212bc"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.ttf",
+      "sha1": "5fd6d56985690c99a7671f789c0a2ec06e48cdf0"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.woff",
+      "sha1": "07dd01c3e7505a10791f7fddfa4d6923b838bd68"
+    },
+    {
+      "path": "assets/fonts/XfinityBrownTT-Regular.woff2",
+      "sha1": "ca7e3f1300b86ce7230c6d169a5decc80e79202f"
+    },
+    {
+      "path": "assets/model/Image_0.png",
+      "sha1": "0f04e3d07d853a8a8f80de7536ada7a39b45d045"
+    },
+    {
+      "path": "assets/model/Image_1.png",
+      "sha1": "e9f445599f8920d84180e41a07d10d9749326350"
+    },
+    {
+      "path": "assets/model/Image_10.jpg",
+      "sha1": "659ec790472f7887a828df8dd33a7bfa52d26b95"
+    },
+    {
+      "path": "assets/model/Image_11.jpg",
+      "sha1": "948c1673687b3a21d4b671ef7687e2d235ac2f81"
+    },
+    {
+      "path": "assets/model/Image_12.jpg",
+      "sha1": "d79f5726fe858efc555de99a40ea5c90abee01d1"
+    },
+    {
+      "path": "assets/model/Image_13.jpg",
+      "sha1": "2726b6be9dc52f3b49a7ec33811e3bfc1006d516"
+    },
+    {
+      "path": "assets/model/Image_14.jpg",
+      "sha1": "ab87497dc003fb96dfa42a7602b5cbfb024602c8"
+    },
+    {
+      "path": "assets/model/Image_15.jpg",
+      "sha1": "4cc6b39bb824bcc698fe64b993594c16ae4acda1"
+    },
+    {
+      "path": "assets/model/Image_16.png",
+      "sha1": "0f00c787ed8191274610b3f9cf441c43fcd55cd8"
+    },
+    {
+      "path": "assets/model/Image_17.png",
+      "sha1": "8f6a21defedc70dcde0cbda01a6bbf3373883640"
+    },
+    {
+      "path": "assets/model/Image_18.png",
+      "sha1": "b25f6ee24c95bfa9d675a43430fc5bd40da7b229"
+    },
+    {
+      "path": "assets/model/Image_19.png",
+      "sha1": "8e55e04961bc0d287d5618a4847fff44ecca5b1f"
+    },
+    {
+      "path": "assets/model/Image_2.jpg",
+      "sha1": "36eed970006f415d0a69ccbdcaf8a5e62a32510d"
+    },
+    {
+      "path": "assets/model/Image_2.png",
+      "sha1": "06f5783e57f1eb2de3e9b09705a345623383cd75"
+    },
+    {
+      "path": "assets/model/Image_20.jpg",
+      "sha1": "414339bb30f7461d1955b56dece3963a8d969c3c"
+    },
+    {
+      "path": "assets/model/Image_21.jpg",
+      "sha1": "41f7440cea9923b41d9549c70ab556475b0440bb"
+    },
+    {
+      "path": "assets/model/Image_22.jpg",
+      "sha1": "556de43678d76ecb5bf4a665a29b888f65d7f24d"
+    },
+    {
+      "path": "assets/model/Image_23.jpg",
+      "sha1": "804d42d11c241423308a3174bf65f55e6ba4cfd8"
+    },
+    {
+      "path": "assets/model/Image_24.jpg",
+      "sha1": "f956c87f7f31689ebb88bcdf96c8e8da087d57f6"
+    },
+    {
+      "path": "assets/model/Image_25.jpg",
+      "sha1": "c5a252c3b4dc2ca7ad04e737c00fcae15c76980a"
+    },
+    {
+      "path": "assets/model/Image_26.jpg",
+      "sha1": "aa9b6ae41454668457e7ef349c8535c9ddc1cb61"
+    },
+    {
+      "path": "assets/model/Image_27.jpg",
+      "sha1": "90479eb76f6acc2affda014842f3f72359e3a9af"
+    },
+    {
+      "path": "assets/model/Image_28.png",
+      "sha1": "fee85eff0ad9135428fbbfd721eb04e2a51e604b"
+    },
+    {
+      "path": "assets/model/Image_29.jpg",
+      "sha1": "dc6dd57d0571af13bfbdde4a70c9f6f3b4921e27"
+    },
+    {
+      "path": "assets/model/Image_3.jpg",
+      "sha1": "ccfbb3c9fdb093b4a0a22541ddd64b4c91242df8"
+    },
+    {
+      "path": "assets/model/Image_3.png",
+      "sha1": "9cd20badb53aa2d3bcabcef8c2b28a741c182e4b"
+    },
+    {
+      "path": "assets/model/Image_4.jpg",
+      "sha1": "37e78408cb4f58281050bae84066f53d4df0d728"
+    },
+    {
+      "path": "assets/model/Image_4.png",
+      "sha1": "9cd20badb53aa2d3bcabcef8c2b28a741c182e4b"
+    },
+    {
+      "path": "assets/model/Image_5.jpg",
+      "sha1": "37e78408cb4f58281050bae84066f53d4df0d728"
+    },
+    {
+      "path": "assets/model/Image_5.png",
+      "sha1": "45a03ea350c7ea9d43318fc3c325caeb9331c517"
+    },
+    {
+      "path": "assets/model/Image_6.png",
+      "sha1": "53e974463ec4784a8dd0276f66cf20de445ab004"
+    },
+    {
+      "path": "assets/model/Image_7.png",
+      "sha1": "864f7d6ded4a0a5477b2fc73c41ffcd564b39ccc"
+    },
+    {
+      "path": "assets/model/Image_8.png",
+      "sha1": "a1a652f3627b16bfdd36e42b25f8c3244fdf7011"
+    },
+    {
+      "path": "assets/model/Image_9.png",
+      "sha1": "b74ca6c9512040a3da48159575061689f6f428e7"
+    },
+    {
+      "path": "assets/model/blend_seperated2.bin",
+      "sha1": "fbe6a8655bb702f92c1a7be4e2fd64080c47ea3d"
+    },
+    {
+      "path": "assets/model/blend_seperated2.gltf",
+      "sha1": "92114a9bfd72c5ce45502e83c211cc568e9114ba"
+    }
+  ]
+}
